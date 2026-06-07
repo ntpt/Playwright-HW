@@ -1,0 +1,29 @@
+
+Exit File1, File2, File3
+
+1. Git init 
+Working directory: File1, File2, File3
+Staging Area: 
+Local Repository: 
+
+2. Git add file1
+Working directory: File1, File2, File3
+Staging Area: File1
+Local Repository: 
+
+3. Git add .
+Working directory: File1, File2, File3
+Staging Area: File1, File2, File3
+Local Repository: 
+
+4. Git commit -m "Commit files"
+Working directory: File1, File2, File3
+Staging Area: 
+Local Repository: File1, File2, File3
+
+----
+Edit file1
+Working directory: File1 (modified), File2, File3
+Staging Area: 
+Local Repository: File1 (last committed version), File2, File3
+

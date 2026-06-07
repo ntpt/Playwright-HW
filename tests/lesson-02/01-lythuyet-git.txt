@@ -1,0 +1,4 @@
+1. Git init: Khởi tạo một Git repository mới trong thư mục hiện tại
+git add <file name>: Đưa file cụ thể vào vùng staging
+git add .: Đưa tất cả các file/thư mục đã thay đổi trong thư mục hiện tại vào staging
+git commit -m "message": Tạo commit từ các thay đổi đang nằm trong vùng staging - Lưu version hiện tại
