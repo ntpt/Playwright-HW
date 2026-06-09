@@ -1,0 +1,85 @@
+a. Chạy lệnh git init
+- Local: 
+- Working directory: 
+- Staging: 
+- Repository:
+
+b. Tạo file file1.txt, file2.txt, oops/, file3.txt
+- Local: 
+- Working directory: file1.txt, file2.txt, oops/, file3.txt
+- Staging: 
+- Repository:
+
+c. Thêm file .gitignore, thên vào 2 dòng file1.txt và oops/
+- Local: 
+- Working directory: file2.txt, file3.txt, .gitignore
+- Staging: 
+- Repository:
+
+d. Chạy lệnh git add . 
+- Local: 
+- Working directory: file2.txt, file3.txt, .gitignore
+- Staging: file2.txt, file3.txt, .gitignore
+- Repository:
+
+e. Chạy lệnh git commit -m "init project"
+- Local: 
+- Working directory: 
+- Staging: 
+- Repository: file2.txt, file3.txt, a. Chạy lệnh git init
+- Local: 
+- Working directory: 
+- Staging: 
+- Repository:
+
+b. Tạo file file1.txt, file2.txt, oops/, file3.txt
+- Local: 
+- Working directory: file1.txt, file2.txt, oops/, file3.txt
+- Staging: 
+- Repository:
+
+c. Thêm file .gitignore, thên vào 2 dòng file1.txt và oops/
+- Local: 
+- Working directory: file2.txt, file3.txt, .gitignore
+- Staging: 
+- Repository:
+
+d. Chạy lệnh git add . 
+- Local: 
+- Working directory: file2.txt, file3.txt, .gitignore
+- Staging: file2.txt, file3.txt, .gitignore
+- Repository:
+
+e. Chạy lệnh git commit -m "init project"
+- Local: 
+- Working directory: 
+- Staging: 
+- Repository: file2.txt, file3.txt, a. Chạy lệnh git init
+- Local: 
+- Working directory: 
+- Staging: 
+- Repository:
+
+b. Tạo file file1.txt, file2.txt, oops/, file3.txt
+- Local: 
+- Working directory: file1.txt, file2.txt, oops/, file3.txt
+- Staging: 
+- Repository:
+
+c. Thêm file .gitignore, thên vào 2 dòng file1.txt và oops/
+- Local: 
+- Working directory: file2.txt, file3.txt, .gitignore
+- Staging: 
+- Repository:
+
+d. Chạy lệnh git add . 
+- Local: 
+- Working directory: file2.txt, file3.txt, .gitignore
+- Staging: file2.txt, file3.txt, .gitignore
+- Repository:
+
+e. Chạy lệnh git commit -m "init project"
+- Local: 
+- Working directory: 
+- Staging: 
+- Repository: file2.txt, file3.txt, .gitignore
